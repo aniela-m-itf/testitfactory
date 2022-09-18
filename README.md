@@ -77,7 +77,7 @@ Project Requirements
 
 •[Project Epic1](https://github.com/aniela-m-itf/testitfactory/blob/main/Screenshot%202022-09-18%20153228.png)
 
-•[The user should be able to register]
+•[The user should be able to register]()
 
 •[The userr should be able to login using a registered account]
 
