@@ -37,5 +37,17 @@ Project Requirements
 
 •The project must be completed in 12 monts
 
+**Entry Criteria**
+
+1.Complete or partially testable code is avaible.
+
+2.Requirements are defined and approved.
+
+3.Availability of sufficient and desired test data.
+
+4.Test cases are developed and ready.
+
+5.Test enviroment has been setup and all other necessary resources such as tools and devices are avaible.
+
 
 
