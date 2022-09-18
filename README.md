@@ -75,7 +75,7 @@ Project Requirements
 
 **Project Epic**
 
-•[Project Epic1](main)
+•[Project Epic1](https://github.com/aniela-m-itf/testitfactory/blob/main/Screenshot%202022-09-18%20153228.png)
 
 
 
