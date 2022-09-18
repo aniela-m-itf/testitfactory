@@ -20,3 +20,22 @@ Project Requirements
 •The user should be able to search
 
 •The user should be able to user the application on mobile also(mobile friendly)
+
+**Project Roles/Needs**
+
+•1 Lead developer
+
+•1 Senior developer
+
+•2 mid/junior developers
+
+•1 QA Lead
+
+•2 mid/junior QA
+
+•1 Project Manager
+
+•The project must be completed in 12 monts
+
+
+
