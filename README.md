@@ -73,3 +73,10 @@ Project Requirements
 
 **Test case design**(based on Project stories)
 
+**Project Epic**
+
+•[Project Epic1](<img width="960" alt="Screenshot 2022-09-18 153228" src="https://user-images.githubusercontent.com/103531078/190904413-9baa8b7b-105a-43ce-b92c-82189ed3ab51.png">)
+
+
+
+
