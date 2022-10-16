@@ -75,7 +75,7 @@ Project Requirements
 
 **Project Epic**
 
-•[Project Epic1](https://github.com/aniela-m-itf/testitfactory/blob/main/Screenshot%202022-09-18%20153228.png)(https://anielamorogan.atlassian.net/jira/software/c/projects/OPENTEST/boards/3?modal=detail&selectedIssue=OPENTEST-1)
+•[Project Epic1](https://github.com/aniela-m-itf/testitfactory/blob/main/Screenshot%202022-09-18%20153228.png)
 
 •[The user should be able to register]()
 
